@@ -1,0 +1,63 @@
+.game-container {
+  width: 100%;
+  height: 100vh;
+  background: url('./images/background.jpg') repeat-x;
+  background-size: auto 100vh;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+/* New styles for the score display */
+.score-container {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  z-index: 10;
+}
+
+.score-container h1, .score-container h2 {
+  margin: 0;
+  padding: 5px;
+}
+
+/* New styles for the game over screen */
+.game-over {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  z-index: 20;
+}
+
+.game-over h2 {
+  font-size: 3rem;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+}
+
+.game-over button {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background-color: #4CAF50; /* A nice green */
+  color: white;
+  margin-top: 20px;
+}
+
+.game-over button:hover {
+  background-color: #45a049;
+}

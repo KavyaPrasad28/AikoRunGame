@@ -1,0 +1,20 @@
+.obstacle {
+  position: absolute;
+  bottom: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* Style for the first obstacle */
+.obstacle-type-1 {
+  width: 140px;
+  height: 160px;
+  background-image: url('../images/Obstacle1.png');
+}
+
+/* Style for the second obstacle */
+.obstacle-type-2 {
+  width: 100px;
+  height: 120px;
+  background-image: url('../images/Obstacle2.png');
+}
