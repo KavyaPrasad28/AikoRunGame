@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AikoGameBackend.Controllers.ScoreController",
+    "Method": "GetScore",
+    "RelativePath": "api/Score",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AikoGameBackend.Controllers.ScoreController",
+    "Method": "PostScore",
+    "RelativePath": "api/Score",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "AikoGameBackend.Controllers.ScoreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\aikogamebackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\aikogamebackend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\controllers\\scoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\controllers\\scoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|c:\\users\\kavya\\source\\repos\\aikogame\\aikogamebackend\\aikogamebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7384F9A3-963F-4B15-B01A-8E2110ABA9C4}|AikoGameBackend\\AikoGameBackend.csproj|solutionrelative:aikogamebackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Controllers\\ScoreDto.cs",
+              "RelativeDocumentMoniker": "AikoGameBackend\\Controllers\\ScoreDto.cs",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Controllers\\ScoreDto.cs",
+              "RelativeToolTip": "AikoGameBackend\\Controllers\\ScoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:19:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AikoGameBackend.http",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\AikoGameBackend.http",
+              "RelativeDocumentMoniker": "AikoGameBackend\\AikoGameBackend.http",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\AikoGameBackend.http",
+              "RelativeToolTip": "AikoGameBackend\\AikoGameBackend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-02T19:22:12.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Program.cs",
+              "RelativeDocumentMoniker": "AikoGameBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Program.cs",
+              "RelativeToolTip": "AikoGameBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:05:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "AikoGameBackend\\Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "AikoGameBackend\\Controllers\\ScoreController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:36:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AikoGameBackend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AikoGameBackend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T19:23:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "AikoGameBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\kavya\\source\\repos\\AikoGame\\AikoGameBackend\\AikoGameBackend\\appsettings.json",
+              "RelativeToolTip": "AikoGameBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T19:22:34.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

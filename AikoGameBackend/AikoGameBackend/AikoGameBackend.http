@@ -1,0 +1,15 @@
+@AikoGameBackend_HostAddress = http://localhost:5179
+
+### Get current high score
+GET {{AikoGameBackend_HostAddress}}/api/score
+Accept: application/json
+
+###
+
+### Post a new score
+POST {{AikoGameBackend_HostAddress}}/api/score
+Content-Type: application/json
+
+10
+
+###
